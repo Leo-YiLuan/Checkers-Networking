@@ -5,11 +5,13 @@ Done by Alex Gorman and Yi Luan.
 For our project we decided to do a Checkers game that you could play over the same
 network using TCP connection, to players can play each on their own computer in the Spinks lab (can also do on the same computer).
 
-We included are file called called Checkers.jar. To run this file go to
-the directory in which the file is located and run the file using 
-the following command:
+## **To Play:**
+*The build is now just for the x86 architecture environment, or you can use Java to run it yourself.*
 
-java -jar Checkers.jar
+Extract and execure the .exe file
+
+[Release](https://github.com/Leo-YiLuan/Checkers-Networking/releases/tag/v1.0.0)
+
 
 Both the Host and Client player will run that command to open the game up.
 Once the game has been loaded the host player will click on the "Host A Game" button and the client will click on the "Enter A Game" button".
